@@ -27,12 +27,14 @@ Para ejecutar este proyecto, necesitas instalar las siguientes librerías de Pyt
 Instala las dependencias con:
 ```bash
 pip install tensorflow pandas matplotlib scikit-learn
+```
 
 ## Cómo ejecutar
 1. Clona este repositorio:
+```bash
 git clone https://github.com/tu_usuario/laprovittola-shot-analysis.git
 cd laprovittola-shot-analysis
-
+```
 2. Abre el archivo laprovittola_shot_analysis.ipynb en Jupyter Notebook o Google Colab.
 
 3. Ejecuta las celdas en orden para reproducir el análisis y las predicciones.
